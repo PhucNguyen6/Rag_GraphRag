@@ -1,0 +1,14 @@
+# Downloaded source data and generated JSONL files
+/raw/
+/documents.jsonl
+/entities.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment and editor settings
+.env
+.vscode/settings.json
