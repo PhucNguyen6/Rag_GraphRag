@@ -1,0 +1,5 @@
+chromadb
+sentence-transformers
+networkx
+python-dotenv
+neo4j

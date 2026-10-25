@@ -12,3 +12,9 @@ venv/
 # Local environment and editor settings
 .env
 .vscode/settings.json
+
+# Data
+data/
+
+# Chroma DB
+chroma_db/
